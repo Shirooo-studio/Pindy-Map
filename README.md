@@ -106,7 +106,7 @@
   - **SSO**（任意）：Google（`omniauth-google-oauth2`）
 
 - **バックエンド／フロント**
-  - Rails 7 / Ruby 3.3
+  - Rails 8.0.2.1 / Ruby 3.3.9
   - DB：PostgreSQL
   - 画像保存：AWS S3
   - 地図・位置情報：Google Maps JS API
